@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
+
+main {
+  flex: 1 0 auto;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+nav {
+  background-color: burlywood;
+  font-family: 'Alata', sans-serif;
+}
+
+a {
+  text-align: center;
+}
+
+a.sidenavLink {
+  font-family: 'Alata', sans-serif;
+}
+
+.page-footer {
+  background-color: burlywood;
+}
+
+#headings {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
