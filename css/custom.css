@@ -8,10 +8,11 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background-color: #366A90;
 }
 
 nav {
-  background-color: burlywood;
+  background-color: #e88c30;
   font-family: 'Alata', sans-serif;
 }
 
@@ -31,9 +32,14 @@ a.sidenavLink {
   text-align: center;
 }
 
+p {
+  color: white;
+}
+
 h3 {
   text-align: center;
   font-family: 'Alata', sans-serif;
+  color: white;
 }
 
 .sidenavIcon {
