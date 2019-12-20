@@ -1,4 +1,4 @@
-# portfolio-materialize
+# JB Portfolio (Materialize CSS)
 
-## deployed url
+## Deployed URL
 https://jaredbucko.github.io/portfolio-materialize/
